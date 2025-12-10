@@ -7,8 +7,7 @@ This Unity package integrates Zed as an external code editor for Unity, providin
 - **External Script Editor** - Double-click scripts in Unity to open them in Zed at the correct line
 - **Bidirectional File Sync** - Changes made in Zed automatically refresh in Unity
 - **Project File Generation** - Automatic `.csproj` and `.sln` generation compatible with Roslyn LSP
-- **Cross-Platform** - Supports Linux, macOS, and Windows (when Zed becomes available)
-
+- **Cross-Platform** - Supports Linux, macOS, and Windows
 ## Installation
 
 ### Via Git URL (Recommended)
