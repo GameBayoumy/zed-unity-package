@@ -1,0 +1,31 @@
+{
+  "name": "com.zed.unity",
+  "version": "0.1.0",
+  "displayName": "Zed Editor Integration",
+  "description": "Integrates Zed as an external code editor for Unity with bidirectional file sync and Roslyn LSP support",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/gamebayoumy/zed-unity#unity-package",
+  "changelogUrl": "https://github.com/gamebayoumy/zed-unity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/gamebayoumy/zed-unity/blob/main/LICENSE.md",
+  "keywords": [
+    "editor",
+    "zed",
+    "external-editor",
+    "code-editor",
+    "roslyn",
+    "lsp"
+  ],
+  "author": {
+    "name": "Sharif Bayoumy",
+    "email": "contact@sharifbayoumy.com",
+    "url": "https://github.com/gamebayoumy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gamebayoumy/zed-unity.git",
+    "directory": "Unity/com.zed.unity"
+  },
+  "type": "tool",
+  "samples": []
+}
