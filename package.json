@@ -1,30 +1,31 @@
 {
-  "name": "com.zed.unity",
-  "version": "0.1.0",
-  "displayName": "Zed Editor Integration",
-  "description": "Integrates Zed as an external code editor for Unity with bidirectional file sync and Roslyn LSP support",
-  "unity": "2021.3",
-  "unityRelease": "0f1",
-  "documentationUrl": "https://github.com/GameBayoumy/zed-unity-package#readme",
-  "changelogUrl": "https://github.com/GameBayoumy/zed-unity-package/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/GameBayoumy/zed-unity-package/blob/main/LICENSE.md",
-  "keywords": [
-    "editor",
-    "zed",
-    "external-editor",
-    "code-editor",
-    "roslyn",
-    "lsp"
-  ],
-  "author": {
-    "name": "Sharif Bayoumy",
-    "email": "contact@sharifbayoumy.com",
-    "url": "https://github.com/GameBayoumy"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GameBayoumy/zed-unity-package.git"
-  },
-  "type": "tool",
-  "samples": []
+    "name": "com.zed.unity",
+    "version": "0.1.0",
+    "displayName": "Zed Editor Integration (Moved)",
+    "description": "Deprecated standalone package. Use com.gamebayoumy.zed-unity from https://github.com/GameBayoumy/zed-unity instead.",
+    "unity": "2021.3",
+    "unityRelease": "0f1",
+    "license": "MIT",
+    "documentationUrl": "https://github.com/GameBayoumy/zed-unity/tree/main/packages/com.gamebayoumy.zed-unity#readme",
+    "changelogUrl": "https://github.com/GameBayoumy/zed-unity/blob/main/packages/com.gamebayoumy.zed-unity/CHANGELOG.md",
+    "licensesUrl": "https://github.com/GameBayoumy/zed-unity/blob/main/packages/com.gamebayoumy.zed-unity/LICENSE.md",
+    "keywords": [
+        "editor",
+        "zed",
+        "external-editor",
+        "code-editor",
+        "deprecated"
+    ],
+    "author": {
+        "name": "Sharif Bayoumy",
+        "email": "contact@sharifbayoumy.com",
+        "url": "https://github.com/GameBayoumy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GameBayoumy/zed-unity.git",
+        "directory": "packages/com.gamebayoumy.zed-unity"
+    },
+    "type": "tool",
+    "samples": []
 }
